@@ -1,0 +1,523 @@
+.our-services {
+  margin: 11rem 0 11rem 0;
+}
+
+.our-services .services-heading {
+  width: 65%;
+  margin: 0 auto;
+}
+
+.our-services .services-heading h3 {
+  margin-bottom: 1.8rem;
+  font-weight: 300;
+  font-size: 3.2rem;
+}
+
+.our-services .services-heading p {
+  font-size: 1.5rem;
+}
+
+.our-services .card {
+  padding: 4.5rem 2.5rem;
+  border: none;
+  -webkit-box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+          box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  -webkit-transition: .6s !important;
+  transition: .6s !important;
+}
+
+.our-services .card:hover {
+  background: rgba(206, 27, 40, 0.2);
+}
+
+.our-services .card .far,
+.our-services .card .fas {
+  font-size: 6.5rem;
+  color: #ce1b28;
+  text-align: center;
+}
+
+.our-services .card img {
+  height: 15rem;
+  width: 16rem;
+  margin: 0 auto;
+}
+
+.our-services .card .card-body {
+  text-align: center;
+}
+
+.our-services .card .card-body h5 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  margin: 17px 0;
+  text-transform: uppercase;
+}
+
+.our-services .card .card-body p {
+  font-size: 1.5rem;
+  line-height: 1.7;
+}
+
+.info-sec {
+  background: linear-gradient(135deg, rgba(206, 27, 40, 0.8) 0%, rgba(17, 17, 17, 0.8) 74%), url("https://templated.co/items/demos/industrious/images/cta01.jpg");
+  width: 100%;
+  height: 60vh;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+}
+
+.info-sec .inner-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  text-align: center;
+  width: 75%;
+}
+
+.info-sec .inner-content h3 {
+  font-size: 3.2rem;
+  font-weight: 300;
+  color: #fff;
+  margin-bottom: 2.6rem;
+}
+
+.info-sec .inner-content p {
+  color: #ffffffbf;
+  line-height: 1.7;
+  font-size: 1.5rem;
+}
+
+.our-client {
+  margin: 11rem 0 11rem 0;
+}
+
+.our-client .testimonial-header {
+  width: 72%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.our-client .testimonial-header h3 {
+  margin-bottom: 1.8rem;
+  font-weight: 300;
+  font-size: 3.2rem;
+}
+
+.our-client .testimonial-header p {
+  font-size: 1.5rem;
+  line-height: 1.6;
+}
+
+.our-client .card {
+  position: relative;
+  padding: 4rem;
+  border: none;
+  -webkit-box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.09);
+          box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.09);
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.our-client .card:hover {
+  -webkit-transform: scale(1.07);
+          transform: scale(1.07);
+  z-index: 9;
+}
+
+.our-client .card blockquote {
+  border-left: solid 0.5rem;
+  font-style: italic;
+  margin: 0 0 2rem 0;
+  padding: 1rem 0 1rem 2rem;
+  border-left-color: rgba(17, 17, 17, 0.3);
+}
+
+.our-client .card blockquote p {
+  font-size: 1.5rem;
+  line-height: 1.6;
+}
+
+.our-client .card .author p {
+  font-size: 1.1rem;
+  display: inline-block;
+}
+
+.our-client .card .author p strong {
+  color: #ce1b28;
+}
+
+.our-client .card .author .image {
+  width: 20%;
+  margin-right: 1.6rem;
+  display: inline-block;
+}
+
+.our-client .card .author .image img {
+  border-radius: 100%;
+  max-width: 100%;
+  height: 5rem;
+  width: 5rem;
+}
+
+footer {
+  padding: 10rem 0 5rem 0;
+  background: #111111;
+  color: #fff;
+}
+
+footer .total-container {
+  width: 86%;
+  margin: 0 auto;
+}
+
+footer .about-industrious h5 {
+  margin-bottom: 2rem;
+  font-size: 2rem;
+  font-weight: 300;
+}
+
+footer .about-industrious p {
+  color: #ffffff80;
+  line-height: 1.6;
+  font-size: 1.5rem;
+}
+
+footer .card2 h5 {
+  font-size: 1.7rem;
+  font-weight: 300;
+}
+
+footer .card2 ul {
+  position: relative;
+}
+
+footer .card2 ul li {
+  list-style: none;
+}
+
+footer .card2 ul li a {
+  text-decoration: none;
+  color: #ffffff80;
+  font-size: 1.5rem;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+footer .card2 ul li a:hover {
+  color: #ce1b28;
+}
+
+footer .card3 h5 {
+  font-size: 1.7rem;
+  font-weight: 300;
+}
+
+footer .card3 ul li {
+  list-style: none;
+  margin: .3rem 0;
+}
+
+footer .card3 ul li .fab {
+  background: #000;
+  padding: .6rem;
+  border-radius: .8rem;
+  font-size: 1.5rem;
+}
+
+footer .card3 ul li .fa-facebook-f {
+  padding: .7rem;
+}
+
+footer .card3 ul li a {
+  display: inline-block;
+  margin: 1.2rem 0 0 1.5rem;
+  text-decoration: none;
+  color: #ffffff80;
+  font-size: 1.5rem;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+footer .card3 ul li a:hover {
+  color: #ce1b28;
+}
+
+footer .footer-copyright {
+  font-size: 1.3rem;
+  color: #ffffff80;
+  margin-top: 8rem;
+}
+
+footer .footer-copyright a {
+  -webkit-transition: .3s;
+  transition: .3s;
+  color: #fff;
+}
+
+footer .footer-copyright a:hover {
+  color: #ce1b28;
+}
+
+@media (max-width: 992px) {
+  header {
+    width: 100% !important;
+  }
+  html {
+    font-size: 55% !important;
+  }
+  .inner-toggle-content {
+    background: linear-gradient(135deg, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)) !important;
+    z-index: 99;
+    padding: 2.5rem;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    display: inline-block;
+  }
+  .nav-link::before {
+    display: none;
+  }
+  li.nav-item {
+    margin: 10px 0 !important;
+    font-size: 1.8rem !important;
+  }
+  .contact {
+    margin: 5px 0 !important;
+  }
+  .header-content {
+    width: 87% !important;
+  }
+  .inner-content {
+    width: 87% !important;
+  }
+  .testimonial-header {
+    width: 86% !important;
+  }
+  .services-heading {
+    width: 86% !important;
+  }
+}
+
+@media (max-width: 768px) {
+  header {
+    width: 100% !important;
+    height: 520px !important;
+  }
+  html {
+    font-size: 50% !important;
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: "Raleway", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: 62.5%;
+}
+
+header {
+  background: linear-gradient(135deg, rgba(206, 27, 40, 0.8) 0%, rgba(17, 17, 17, 0.8) 74%), url("https://cdn.pixabay.com/photo/2015/04/20/13/25/city-731296_960_720.jpg");
+  background-position: center bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+  position: relative;
+}
+
+header .navbar-brand {
+  font-size: 3rem;
+  margin-left: 4rem;
+}
+
+header button.navbar-toggler {
+  border: 0;
+  outline: none;
+}
+
+header .nav-item {
+  position: relative;
+}
+
+header .nav-item a.nav-link {
+  font-size: 1.5rem;
+}
+
+header .nav-item .nav-link::before {
+  position: absolute;
+  content: "";
+  height: .14rem;
+  width: 100%;
+  background: #fff;
+  top: 3.6rem;
+  -webkit-transition: .4s;
+  transition: .4s;
+  opacity: 0;
+}
+
+header .nav-item .nav-link:hover::before {
+  opacity: 1;
+  -webkit-transform: translateY(-5px);
+          transform: translateY(-5px);
+}
+
+header .contact {
+  margin: 0 4rem 0 2rem;
+  position: relative;
+}
+
+header .contact .contact-btn {
+  border: 1px solid #fff !important;
+  padding: 1rem 2.8rem;
+  margin-top: .3125rem;
+  display: inline-block;
+  font-size: 1.8rem;
+  text-decoration: none;
+  color: #fff;
+  font-weight: 500;
+  -webkit-transition: all .4s;
+  transition: all .4s;
+}
+
+header .contact .contact-btn:hover {
+  background: #fff;
+  border: transparent;
+  color: #333;
+}
+
+header .header-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  color: #fff;
+  text-align: center;
+  width: 68%;
+}
+
+header .header-content h2 {
+  font-size: 6rem;
+  font-weight: 300;
+  margin-bottom: 2.4rem;
+}
+
+header .header-content .header-para {
+  font-size: 2.2rem;
+}
+
+.cursor {
+  position: fixed;
+  width: 5rem;
+  height: 5rem;
+  border: 1px solid #c6c6c6;
+  border-radius: 50%;
+  left: 0;
+  top: 0;
+  pointer-events: none;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  -webkit-transition: 0.1s;
+  transition: 0.1s;
+  z-index: 99;
+}
+
+.cursor2 {
+  position: fixed;
+  width: .8rem;
+  height: .8rem;
+  background: #c6c6c6;
+  border-radius: 50%;
+  left: 0;
+  top: 0;
+  pointer-events: none;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  -webkit-transition: 0.15s;
+  transition: 0.15s;
+  z-index: 99;
+}
+
+.animation-element {
+  position: absolute;
+  top: 78%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+.animation-element::before {
+  position: absolute;
+  content: "";
+  height: 6rem;
+  width: .1rem;
+  background: #fff;
+  -webkit-animation: line_anim 2s infinite;
+          animation: line_anim 2s infinite;
+}
+
+@-webkit-keyframes line_anim {
+  0% {
+    -webkit-transform-origin: top;
+            transform-origin: top;
+    -webkit-transform: scaleY(0);
+            transform: scaleY(0);
+  }
+  50% {
+    -webkit-transform-origin: top;
+            transform-origin: top;
+    -webkit-transform: scaleY(1);
+            transform: scaleY(1);
+  }
+  51% {
+    -webkit-transform-origin: bottom;
+            transform-origin: bottom;
+    -webkit-transform: scaleY(1);
+            transform: scaleY(1);
+  }
+  100% {
+    -webkit-transform-origin: bottom;
+            transform-origin: bottom;
+    -webkit-transform: scaleY(0);
+            transform: scaleY(0);
+  }
+}
+
+@keyframes line_anim {
+  0% {
+    -webkit-transform-origin: top;
+            transform-origin: top;
+    -webkit-transform: scaleY(0);
+            transform: scaleY(0);
+  }
+  50% {
+    -webkit-transform-origin: top;
+            transform-origin: top;
+    -webkit-transform: scaleY(1);
+            transform: scaleY(1);
+  }
+  51% {
+    -webkit-transform-origin: bottom;
+            transform-origin: bottom;
+    -webkit-transform: scaleY(1);
+            transform: scaleY(1);
+  }
+  100% {
+    -webkit-transform-origin: bottom;
+            transform-origin: bottom;
+    -webkit-transform: scaleY(0);
+            transform: scaleY(0);
+  }
+}
+/*# sourceMappingURL=style.css.map */

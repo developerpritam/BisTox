@@ -1,0 +1,59 @@
+// our-services start
+.our-services {
+  margin: 11rem 0 11rem 0;
+
+  .services-heading {
+    width: 65%;
+    margin: 0 auto;
+
+    h3 {
+      margin-bottom: 1.8rem;
+      font-weight: 300;
+      font-size: 3.2rem;
+    }
+
+    p {
+      font-size: 1.5rem;
+    }
+  }
+
+  .card {
+    padding: 4.5rem 2.5rem;
+    border: none;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+    transition: .6s !important;
+
+    &:hover {
+      background: rgba(206, 27, 40, .2);
+    }
+
+    .far,
+    .fas {
+      font-size: 6.5rem;
+      color: #ce1b28;
+      text-align: center;
+    }
+
+    img {
+      height: 15rem;
+      width: 16rem;
+      margin: 0 auto;
+    }
+
+    .card-body {
+      text-align: center;
+
+      h5 {
+        font-size: 1.8rem;
+        font-weight: 400;
+        margin: 17px 0;
+        text-transform: uppercase;
+      }
+
+      p {
+        font-size: 1.5rem;
+        line-height: 1.7;
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+// @media (max-width: 992px) {
+//   ul {
+//     padding-left: 0;
+//   }
+// }
+
+@media (max-width: 992px) {
+  header {
+    width: 100% !important;
+  }
+
+  html {
+    font-size: 55% !important;
+  }
+
+  .inner-toggle-content {
+    background: linear-gradient(135deg, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)) !important;
+    z-index: 99;
+    padding: 2.5rem;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    display: inline-block;
+  }
+
+  .nav-link::before {
+    
+    display: none;
+  }
+
+  li.nav-item {
+    margin: 10px 0 !important;
+    font-size: 1.8rem !important;
+  }
+
+  .contact {
+    margin: 5px 0 !important;
+  }
+
+  .header-content {
+    width: 87% !important;
+  }
+
+  .inner-content {
+    width: 87% !important;
+  }
+
+  .testimonial-header {
+    width: 86% !important;
+
+  }
+
+  .services-heading {
+    width: 86% !important;
+  }
+
+
+}
+
+
+
+@media (max-width: 768px) {
+  header {
+    width: 100% !important;
+    height: 520px !important;
+  }
+
+  html {
+    font-size: 50% !important;
+  }
+
+}
